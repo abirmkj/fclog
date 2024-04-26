@@ -3,7 +3,7 @@
 
 Did you ever want to print logging messages to console for debugging, and wished it was color-coded? Of course, there are numerous full-fledged logging libraries out there that can do the task. But sometimes the effort of including them for a small project is just too much! 
 
-Enter `fclog` - short for **F**ormmatted **C**onsole **LOG**ger - a wrapper around good old `std::cout` that prints color-coded debug messages to the terminal. Light enough to work on an embedded platform (well, one that supports C++ with `iostream`) like my friendly [Onion Omega 2+]()
+Enter `fclog` - short for **F**ormmatted **C**onsole **LOG**ger - a wrapper around good old `std::cout` that prints color-coded debug messages to the terminal. Light enough to work on an embedded platform (well, one that supports C++ with `iostream`) like my friendly [Onion Omega 2+](https://onion.io/Omega2/)
 
 # Usage
 
